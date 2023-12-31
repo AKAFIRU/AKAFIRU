@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Nikolai Cauper</h1>
+https://github.com/AKAFIRU/AKAFIRU/assets/108491512/19be6abc-f5ff-48bb-bdcc-a86f46fe3e94
 <h3 align="center">Programador Junior</h3>
 
 <h3 align="left">Connect with me:</h3>
